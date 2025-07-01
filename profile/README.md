@@ -9,7 +9,6 @@
 
 # Hi there, we are [Plimai](https://github.com/plimai)! 👁️‍🗨️
 
-[![Discord](https://img.shields.io/discord/your-discord-id?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://your-discord-invite-link)
 [![PyPI](https://img.shields.io/pypi/v/plimai?label=PyPI&logo=pypi)](https://pypi.org/project/plimai/)
 [![Downloads](https://img.shields.io/pypi/dm/plimai?label=Downloads&logo=python)](https://pypi.org/project/plimai/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
@@ -39,11 +38,6 @@ We LOVE the community and contributions are always welcome!
 - [Pull requests](https://github.com/plimai/plim/pulls)
 - [Docs issues](https://github.com/plimai/plim/issues)
 
----
-
-## 💬 Join the community
-
-Don't want to miss out on our latest updates? Join our [Discord](https://your-discord-invite-link).
 
 ---
 

@@ -9,8 +9,6 @@
   <em>Elegant, efficient, and effortless LLM training for everyone</em>
 </p>
 
----
-
 <br>
 
 ## ✨ Philosophy

@@ -3,7 +3,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/langtrain-ai/langtrain/main/static/langtrain-use-dark.png">
-    <img alt="Langtrain" src="https://raw.githubusercontent.com/langtrain-ai/langtrain/main/static/langtrain-white.png" width="400" />
+    <img alt="Langtrain" src="https://raw.githubusercontent.com/langtrain-ai/langtrain/main/static/langtrain-white.png" width="full" />
   </picture>
 </div>
 

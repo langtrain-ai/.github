@@ -9,15 +9,6 @@
   <em>Elegant, efficient, and effortless LLM training for everyone</em>
 </p>
 
-<div align="center">
-  
-[![PyPI](https://img.shields.io/pypi/v/langtrain?style=for-the-badge&logo=pypi&logoColor=white&color=4c72b0)](https://pypi.org/project/langtrain/)
-[![Downloads](https://img.shields.io/pypi/dm/langtrain?style=for-the-badge&logo=python&logoColor=white&color=55acee)](https://pypi.org/project/langtrain/)
-[![License](https://img.shields.io/github/license/langtrain-ai/langtrain?style=for-the-badge&color=green)](https://github.com/langtrain-ai/langtrain/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/langtrain-ai/langtrain?style=for-the-badge&logo=github&color=yellow)](https://github.com/langtrain-ai/langtrain)
-
-</div>
-
 ---
 
 <br>

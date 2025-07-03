@@ -17,8 +17,8 @@
 
 <div align="center">
   
-[![PyPI](https://img.shields.io/pypi/v/langtrain?style=for-the-badge&logo=pypi&logoColor=white&color=4c72b0)](https://pypi.org/project/langtrain/)
-[![Downloads](https://img.shields.io/pypi/dm/langtrain?style=for-the-badge&logo=python&logoColor=white&color=55acee)](https://pypi.org/project/langtrain/)
+[![PyPI](https://img.shields.io/pypi/v/langtrain-ai?style=for-the-badge&logo=pypi&logoColor=white&color=4c72b0)](https://pypi.org/project/langtrain-ai/)
+[![Downloads](https://img.shields.io/pypi/dm/langtrain-ai?style=for-the-badge&logo=python&logoColor=white&color=55acee)](https://pypi.org/project/langtrain-ai/)
 [![License](https://img.shields.io/github/license/langtrain-ai/langtrain?style=for-the-badge&color=green)](https://github.com/langtrain-ai/langtrain/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/langtrain-ai/langtrain?style=for-the-badge&logo=github&color=yellow)](https://github.com/langtrain-ai/langtrain)
 
@@ -94,11 +94,11 @@ model.train("images/", "captions.json")
 
 ```bash
 # The complete experience
-pip install langtrain
+pip install langtrain-ai
 
 # Focused installations
-pip install langtrain[text]     # Pure language
-pip install langtrain[vision]   # Pure vision
+pip install langtrain-ai[text]     # Pure language
+pip install langtrain-ai[vision]   # Pure vision
 ```
 
 </details>

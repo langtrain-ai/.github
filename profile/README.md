@@ -8,8 +8,7 @@
 </div>
 
 <div align="center">
-  <h3>Elegant AI Training Made Simple</h3>
-  <p><em>Where complexity meets simplicity in machine learning</em></p>
+  <h3>Finetune. Train. Deploy. Custom LLMs from your data</h3>
 </div>
 
 ---

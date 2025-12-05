@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/langtrain-ai/langtrain/main/static/langtrain-use-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/langtrain-ai/langtrain/main/static/langtrain-use-dark.png](https://raw.githubusercontent.com/priteshraj10/langtrain-web/refs/heads/main/public/logos/langtrain-logo/langtrain-white.svg?token=GHSAT0AAAAAADOZU3HACOJNZT3JZAA5A7BC2JSR6WA)">
     <img alt="LangTrain" src="https://raw.githubusercontent.com/langtrain-ai/langtrain/main/static/langtrain-white.png" width="80%" />
   </picture>
 </div>
@@ -35,7 +35,7 @@ Multimodal vision-language training for image captioning, visual QA, and scene u
 ## Quick Start
 
 ```bash
-pip install langtrain
+pip install langtrain-ai
 ````
 
 ```python

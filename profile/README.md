@@ -1,4 +1,4 @@
-# LangTrain
+# Langtrain
 
 <div align="center">
   <picture>

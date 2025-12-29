@@ -7,6 +7,9 @@
 
 ### Fine-tune, train, and deploy LLMs with complete privacy. Your AI, your data, your machine.
 
+
+<a href="https://www.producthunt.com/products/langtrain-2?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-langtrain-2" target="_blank" rel="noopener noreferrer"><img alt="Langtrain - Train custom AI models  | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1049974&amp;theme=light&amp;t=1766979224868"></a>
+
 **Products:**
 - [Langtrain Studio](https://langtrain.xyz) – Desktop app for offline LLM fine-tuning with GPU acceleration
 - [Langtrain Hub](https://langtrain.xyz) – Cloud platform for model management & deployment

@@ -40,6 +40,34 @@ Never commit keys, tokens, `.env` files or customer data. CI scans for them.
 If you commit one by accident, tell a maintainer: rotating the secret
 matters more than rewriting history.
 
+## Repository standard
+
+Every repository in the organization has the same baseline, so any of them can
+be picked up without asking how it works:
+
+| File | Purpose |
+|---|---|
+| `README.md` | What it is, how to set it up, how to run its checks |
+| `LICENSE` | Public repositories only; matches the license in the package metadata |
+| `.github/CODEOWNERS` | Who reviews changes |
+| `.github/workflows/ci.yml` | The checks a PR has to pass (code repositories) |
+| `.github/dependabot.yml` | Monthly, grouped dependency updates |
+| `.editorconfig` | Shared editor settings: UTF-8, LF, 2 spaces (4 for Python and Rust) |
+| `.gitignore` | Keeps environments, build output, logs and `.env` files out |
+
+These come from this `.github` repository and apply to every repository that
+doesn't have its own copy, so don't copy them in: the PR template, the issue
+forms, this guide, [SECURITY.md](SECURITY.md) and
+[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Change them here and every
+repository picks up the change.
+
+Repository names are `langtrain_<name>`. Retired repositories are archived on
+GitHub, with a README that points at their replacement.
+
 ## Security issues
 
 See [SECURITY.md](SECURITY.md). Don't open public issues for them.
+
+## Conduct
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
